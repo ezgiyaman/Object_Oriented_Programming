@@ -16,7 +16,7 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
 * Yönetilebilir.
 * Daha rahat güncelleme yapılıp,genişletilebilir.
 
-# [CLASS NEDİR?](https://github.com/ezgiyaman/OOP/tree/master/OOP_Class)
+## [CLASS NEDİR?](https://github.com/ezgiyaman/OOP/tree/master/OOP_Class)
 
 Nesnelerden oluşan geniş kapsamlı değişkenleri bir arada saklayan sistemdir. 
 
@@ -24,7 +24,7 @@ Nesnelerden oluşan geniş kapsamlı değişkenleri bir arada saklayan sistemdir
 
 Verileri saklayan ve bu veriler üzerinde işlem yapan methotları saklayan bileşenlerdir.Ortak özelliği olan ancak birbiri içerisinde farklılık gösteren bir çok nesne olabilir ve biz bu nesneleri sınıf kümesi içerisine alabilir, bu sınıfıda dilediğimiz zaman dilediğimiz yerden çağırarak kullanabilir aynı kodları ayrı ayrı yerlerde yazmaz hem takibini kolaylaştırır hemde kod üzerindeki hakimiyetimizi arttırırız.
 
-# ERİŞİM BELİRTEÇLERİ(ACCESS MODİFİES)
+## ERİŞİM BELİRTEÇLERİ(ACCESS MODİFİES)
 
 Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen anahtar sözcüklerdir.
 
