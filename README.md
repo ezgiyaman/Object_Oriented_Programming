@@ -36,7 +36,7 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
  Protected |Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
  Protected Internal|Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.Ayrıca tanımlamanın aynı projede olma şartı yoktur.Protected'dan farkı budur.
 
-
+* Eğer erişim belirleyici belirtilmemişse, sınıflar Internal'dir.(en küçük erişim belirtecidir.)
 
 
 
