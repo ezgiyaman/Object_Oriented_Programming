@@ -9,6 +9,13 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
  * POLYMORPHİSM (ÇOK BİÇİMLİLİK)
  * ABSTRACTİON (SOYUTLAMA)
 
+# OOP’UN AVANTAJLARI NELERDİR?
+* Uygulama içerisinde bize kendi objelerimizi oluşturmamıza imkan sağlar.
+* Takım çalışmasına uygundur.
+* Tasarlanması daha kolaydır.
+* Yönetilebilir.
+* Daha rahat güncelleme yapılıp,genişletilebilir.
+
 
 
 
