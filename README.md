@@ -4,5 +4,11 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
 
 # OOP'UN TEMEL ÖZELLİKLERİ ;
 
- * [ENCAPSULATİON](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
+ * [ENCAPSULATİON(SARMA)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
+ * [INHERİTANCE (KALITIM)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Inheritance_2)
+ * POLYMORPHİSM (ÇOK BİÇİMLİLİK)
+ * ABSTRACTİON (SOYUTLAMA)
+
+
+
 
