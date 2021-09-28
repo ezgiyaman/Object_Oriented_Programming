@@ -4,5 +4,5 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
 
 # OOP'UN TEMEL ÖZELLİKLERİ ;
 
-[ENCAPSULATİON](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
+ * [ENCAPSULATİON](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
 
