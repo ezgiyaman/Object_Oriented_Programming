@@ -24,6 +24,24 @@ Nesnelerden oluşan geniş kapsamlı değişkenleri bir arada saklayan sistemdir
 
 Verileri saklayan ve bu veriler üzerinde işlem yapan methotları saklayan bileşenlerdir.Ortak özelliği olan ancak birbiri içerisinde farklılık gösteren bir çok nesne olabilir ve biz bu nesneleri sınıf kümesi içerisine alabilir, bu sınıfıda dilediğimiz zaman dilediğimiz yerden çağırarak kullanabilir aynı kodları ayrı ayrı yerlerde yazmaz hem takibini kolaylaştırır hemde kod üzerindeki hakimiyetimizi arttırırız.
 
+# ERİŞİM BELİRTEÇLERİ(ACCESS MODİFİES)
+
+Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen anahtar sözcüklerdir.
+
+
+
+Public
+Her yerden erişilebilir.
+Private
+Sadece tanımlandığı sınıf içerisinden erişilebilir.
+Internal
+Sadece bulunduğu projede erişilebilir.
+Protected
+Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
+Protected Internal
+Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.Ayrıca tanımlamanın aynı projede olma şartı yoktur.Protected'dan farkı budur.
+
+
 
 
 
