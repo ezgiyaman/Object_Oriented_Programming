@@ -30,6 +30,7 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
 
  ERİŞİM BELİRTEÇLERİ |  İZİNLER
 ---------------------|------------
+ Public  | Her yerden erişilebilir.
  Private | Sadece tanımlandığı sınıf içerisinden erişilebilir.            
  Internal| Sadece bulunduğu projede erişilebilir.
  Protected |Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
