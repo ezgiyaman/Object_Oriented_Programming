@@ -30,16 +30,6 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
 
 
 
-Public
-Her yerden erişilebilir.
-Private
-Sadece tanımlandığı sınıf içerisinden erişilebilir.
-Internal
-Sadece bulunduğu projede erişilebilir.
-Protected
-Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.
-Protected Internal
-Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.Ayrıca tanımlamanın aynı projede olma şartı yoktur.Protected'dan farkı budur.
 
 
 
