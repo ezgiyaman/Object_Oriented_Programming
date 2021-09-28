@@ -29,8 +29,8 @@ Verileri saklayan ve bu veriler üzerinde işlem yapan methotları saklayan bile
 Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen anahtar sözcüklerdir.
 
 # ERİŞİM BELİRTEÇLERİ | # İZİNLER
---------------------  | --------
-# PRİVATE             |
+----------------------|------------
+# PRİVATE             
 
 
 
