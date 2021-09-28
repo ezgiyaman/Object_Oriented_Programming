@@ -16,6 +16,8 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
 * Yönetilebilir.
 * Daha rahat güncelleme yapılıp,genişletilebilir.
 
+[CLASS](https://github.com/ezgiyaman/OOP/tree/master/OOP_Class)
+
 
 
 
