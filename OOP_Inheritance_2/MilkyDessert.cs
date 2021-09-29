@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Inheritance_2
 {
- public class MilkyDessert
+ public class MilkyDessert : Dessert
     {
         public int TotalMilk { get; set; }
     }
