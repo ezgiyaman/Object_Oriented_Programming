@@ -42,7 +42,7 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
 
 * Eğer erişim belirleyici belirtilmemişse, sınıflar Internal'dir.(en küçük erişim belirtecidir.)
 
-# OVERRİDE NEDİR ?
+## OVERRİDE NEDİR ?
 Bu terim ata sınıftan gelen yeteneklerin alt sınıfta üzerine yüklenmiş kabiliyetlerin geçersiz kılınarak onlara yeni yetenekler kazandırdığı yapıdır.Miras alınan metodun ezilmesi işlemini sağlar, yani metodun içini değiştirmektir.
 ## VİRTUAL NEDİR ?
 Virtual, metodlara uygulanan anahtar bir sözcüktür.Bir sınıfın miras alınan sınıflardaki metodunun ezilebilmesini ve değişiklik gösterebilmesini sağlar.
