@@ -2,7 +2,7 @@
 
 Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmış olan bir programlama dilidir. OPP’da programlar nesnelerin birbirleriyle etkileşime geçmeleri sonucu tasarlanır.
 
-# OOP'UN TEMEL ÖZELLİKLERİ ;
+# OOP'UN TEMEL PRENSİPLERİ ;
 
  * [ENCAPSULATİON(SARMA)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
  * [INHERİTANCE (KALITIM)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Inheritance_2)
@@ -37,6 +37,11 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
  Protected Internal|Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.Ayrıca tanımlamanın aynı projede olma şartı yoktur.Protected'dan farkı budur.
 
 * Eğer erişim belirleyici belirtilmemişse, sınıflar Internal'dir.(en küçük erişim belirtecidir.)
+
+# OVERRİDE NEDİR ?
+Bu terim ata sınıftan gelen yeteneklerin alt sınıfta üzerine yüklenmiş kabiliyetlerin geçersiz kılınarak onlara yeni yetenekler kazandırdığı yapıdır.Miras alınan metodun ezilmesi işlemini sağlar, yani metodun içini değiştirmektir.
+## VİRTUAL NEDİR ?
+Virtual, metodlara uygulanan anahtar bir sözcüktür.Bir sınıfın miras alınan sınıflardaki metodunun ezilebilmesini ve değişiklik gösterebilmesini sağlar.
 
 
 
