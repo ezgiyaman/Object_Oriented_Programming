@@ -24,6 +24,10 @@ Nesnelerden oluşan geniş kapsamlı değişkenleri bir arada saklayan sistemdir
 
 Verileri saklayan ve bu veriler üzerinde işlem yapan methotları saklayan bileşenlerdir.Ortak özelliği olan ancak birbiri içerisinde farklılık gösteren bir çok nesne olabilir ve biz bu nesneleri sınıf kümesi içerisine alabilir, bu sınıfıda dilediğimiz zaman dilediğimiz yerden çağırarak kullanabilir aynı kodları ayrı ayrı yerlerde yazmaz hem takibini kolaylaştırır hemde kod üzerindeki hakimiyetimizi arttırırız.
 
+## [CONSTRUCTOR NEDİR?](https://github.com/ezgiyaman/OOP/tree/master/OOP_Constructor)
+
+Bulunan class yapılarının nesne olarak tanımlanmasında alt yapıyı hazırlayan, kurucu rolü üstlenen, sınıf ismi ile aynı isime sahip olan, geriye değer döndürmeyen fonksiyon türleridir.
+
 ## ERİŞİM BELİRTEÇLERİ(ACCESS MODİFİES)
 
 Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen anahtar sözcüklerdir.
