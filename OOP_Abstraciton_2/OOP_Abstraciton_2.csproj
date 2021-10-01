@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3BF4C499-A0CD-4E88-920E-C8A4E8FD7881}</ProjectGuid>
+    <ProjectGuid>{A5D37A24-8D71-4C7B-BDBB-AFC7F792C3DA}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>OOP_Abstraction</RootNamespace>
-    <AssemblyName>OOP_Abstraction</AssemblyName>
+    <RootNamespace>OOP_Abstraciton_2</RootNamespace>
+    <AssemblyName>OOP_Abstraciton_2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,20 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Entities\Abstraction\Vehicle.cs" />
-    <Compile Include="Entities\Concrete\Airplane.cs" />
-    <Compile Include="Entities\Concrete\Car.cs" />
-    <Compile Include="Entities\Concrete\Ship.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="CalmaTuru.cs" />
+    <Compile Include="Entities\Abstraciton\Instrument.cs" />
+    <Compile Include="Entities\Concrete\Drum.cs" />
+    <Compile Include="Entities\Concrete\Flute.cs" />
+    <Compile Include="Entities\Concrete\Piano.cs" />
+    <Compile Include="Form7.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
