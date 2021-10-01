@@ -6,3 +6,5 @@ Abstraction, gereksiz detayları göz ardı ederek ve bir amaç için neyin öne
 * Bir methodun abstract olması için o methodun miras edilen sınıflarda ezilmesi zorunludur.Abstract methodlar abstract olmayan sınıflarda bulunamaz.
 * Abstract methodların gövdesi olmaz.
 * Abstract sınıflardan instance alınmamaktadır.
+
+
