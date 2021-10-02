@@ -7,8 +7,7 @@ Abstraction, gereksiz detayları göz ardı ederek ve bir amaç için neyin öne
 * Abstract methodların gövdesi olmaz.
 * Abstract sınıflardan instance alınmamaktadır.
 
-# ENUM NEDİR ?
-Enum, geliştirilen uygulamalarda sabit değerler ile çalışılması gerekildiğinde kullanılan bir yapıdır.Programı daha okunabilir kılar ve gelecekte tekrar döndürdüğümüzde anlamamızı kolaylaştırır.
+
 
 
 
