@@ -7,7 +7,7 @@ Mantıksal işlemlerdense nesnelere ve nesneler üzerinde işlemlere odaklanmı�
  * [ENCAPSULATİON(SARMA)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Encapsulation)
  * [INHERİTANCE (KALITIM)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Inheritance_2)
  * [ABSTRACTİON (SOYUTLAMA)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Abstraction)
- * POLYMORPHİSM (ÇOK BİÇİMLİLİK)
+ * [POLYMORPHİSM (ÇOK BİÇİMLİLİK)](https://github.com/ezgiyaman/OOP/tree/master/OOP_Polymorphism)
 
 # OOP’UN AVANTAJLARI NELERDİR?
 * Uygulama içerisinde bize kendi objelerimizi oluşturmamıza imkan sağlar.
