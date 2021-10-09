@@ -42,7 +42,16 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
 
 * Eğer erişim belirleyici belirtilmemişse, sınıflar Internal'dir.(en küçük erişim belirtecidir.)
 
-## OVERLOADİNG NEDİR ?
+## OVERLOADİNG(AŞIRI YÜKLEME) NEDİR ?
+Uygulamalar içerisinde oluşturmuş olduğumuz metot yapılarının yeniden yazılmasına, esneklik kazanmasına ve daha fazla işlevsel bir yapıya geçmesine imkan sağlayarak aynı isimde birden fazla parametreleri farklı metodumuzun oluşmasına imkan sağlayan yapıdır.
+
+```
+public class Car(int Id,int Model){}
+
+public class Car(int Id,stirng Model,string Marka){}
+
+```
+
 
 ## OVERRİDE NEDİR ?
 Bu terim ata sınıftan gelen yeteneklerin alt sınıfta üzerine yüklenmiş kabiliyetlerin geçersiz kılınarak onlara yeni yetenekler kazandırdığı yapıdır.Miras alınan metodun ezilmesi işlemini sağlar, yani metodun içini değiştirmektir.
