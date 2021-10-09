@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Abstraciton_2", "OOP_Ab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Polymorphism", "OOP_Polymorphism\OOP_Polymorphism.csproj", "{F6C928D4-4B1B-473D-8842-F4AD61BFDCAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book_Genres_Repository", "Book_Genres_Repository\Book_Genres_Repository.csproj", "{8E502707-43F7-4128-A72B-A58DE7EF1EFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F6C928D4-4B1B-473D-8842-F4AD61BFDCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6C928D4-4B1B-473D-8842-F4AD61BFDCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6C928D4-4B1B-473D-8842-F4AD61BFDCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E502707-43F7-4128-A72B-A58DE7EF1EFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E502707-43F7-4128-A72B-A58DE7EF1EFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E502707-43F7-4128-A72B-A58DE7EF1EFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E502707-43F7-4128-A72B-A58DE7EF1EFC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
