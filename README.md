@@ -52,7 +52,6 @@ public class Car(int Id,stirng Model,string Marka){}
 
 ```
 
-
 ## OVERRİDE NEDİR ?
 Bu terim ata sınıftan gelen yeteneklerin alt sınıfta üzerine yüklenmiş kabiliyetlerin geçersiz kılınarak onlara yeni yetenekler kazandırdığı yapıdır.Miras alınan metodun ezilmesi işlemini sağlar, yani metodun içini değiştirmektir.
 ## VİRTUAL NEDİR ?
