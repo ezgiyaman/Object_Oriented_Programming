@@ -42,6 +42,8 @@ Bir sınıfa ya da bir sınıfa ait öğelere erişilebilme durumunu belirleyen 
 
 * Eğer erişim belirleyici belirtilmemişse, sınıflar Internal'dir.(en küçük erişim belirtecidir.)
 
+## OVERLOADİNG NEDİR ?
+
 ## OVERRİDE NEDİR ?
 Bu terim ata sınıftan gelen yeteneklerin alt sınıfta üzerine yüklenmiş kabiliyetlerin geçersiz kılınarak onlara yeni yetenekler kazandırdığı yapıdır.Miras alınan metodun ezilmesi işlemini sağlar, yani metodun içini değiştirmektir.
 ## VİRTUAL NEDİR ?
